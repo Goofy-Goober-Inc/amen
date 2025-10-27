@@ -19,5 +19,15 @@ using namespace std;
 #define больше >
 #define меньше <
 #define пока for
+#define есть =
+#define УКАЗ_БОЖИЙ *
+#define изъять -
+#define прибавить +
+#define прирасти(i) i++
+#define умножить *
+#define приумножить *=
+#define разделить /
+#define сюда <<
+#define туда >>
 
 #endif
