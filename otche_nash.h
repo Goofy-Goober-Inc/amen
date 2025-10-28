@@ -33,5 +33,6 @@ using namespace std;
 #define боженька_сделал }
 #define по_сему (
 #define по_тому )
+#define следующая_строка '\n'
 
 #endif
