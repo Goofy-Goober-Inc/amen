@@ -23,11 +23,15 @@ using namespace std;
 #define УКАЗ_БОЖИЙ *
 #define изъять -
 #define прибавить +
-#define прирасти(i) i++
+#define прирасти ++
 #define умножить *
 #define приумножить *=
 #define разделить /
 #define сюда <<
 #define туда >>
+#define боженька_сказал {
+#define боженька_сделал }
+#define по_сему (
+#define по_тому )
 
 #endif
